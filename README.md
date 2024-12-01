@@ -1,5 +1,6 @@
 # ENNDelegate
 
+
 ENN Delegate is a vendor delegate to run Neural network models on Samsung's Exynos processor.
 ENN Delegate can be integrated with Android apps to generate on-device compilation of neural network models.
 
